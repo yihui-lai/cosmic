@@ -1,0 +1,51 @@
+
+# DO NOT DELETE
+
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TROOT.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TDirectory.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TBuffer.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TObject.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/RConfigure.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/Rtypes.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/RtypesCore.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/ROOT/RConfig.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/RVersion.h
+./Plotter/MyFunction_C.so: /usr/include/AvailabilityMacros.h
+./Plotter/MyFunction_C.so: /usr/include/TargetConditionals.h
+./Plotter/MyFunction_C.so: /usr/include/stddef.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/DllImport.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/snprintf.h
+./Plotter/MyFunction_C.so: /usr/include/stdio.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/strlcpy.h
+./Plotter/MyFunction_C.so: /usr/include/string.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TGenericClassInfo.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TSchemaHelper.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TIsAProxy.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TVirtualIsAProxy.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TStorage.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TVersionCheck.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TNamed.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TString.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TMathBase.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/ROOT/RStringView.hxx
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/ROOT/TypeTraits.hxx
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/ROOT/RSpan.hxx
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/ROOT/span.hxx
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TList.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TSeqCollection.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TCollection.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TIterator.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TVirtualRWMutex.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TVirtualMutex.h
+./Plotter/MyFunction_C.so: /usr/include/assert.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TDatime.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TUUID.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TGraph.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TAttLine.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TAttFill.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TAttMarker.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TVectorFfwd.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TVectorDfwd.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/TFitResultPtr.h
+./Plotter/MyFunction_C.so: /Applications/root_v6.14.04/include/RVersion.h /Applications/root_v6.14.04/include/RConfig.h /Applications/root_v6.14.04/include/TClass.h /Applications/root_v6.14.04/include/TDictAttributeMap.h /Applications/root_v6.14.04/include/TInterpreter.h /Applications/root_v6.14.04/include/TROOT.h /Applications/root_v6.14.04/include/TBuffer.h /Applications/root_v6.14.04/include/TMemberInspector.h /Applications/root_v6.14.04/include/TError.h /Applications/root_v6.14.04/include/RtypesImp.h /Applications/root_v6.14.04/include/TIsAProxy.h /Applications/root_v6.14.04/include/TFileMergeInfo.h /Applications/root_v6.14.04/include/TCollectionProxyInfo.h /Applications/root_v6.14.04/bin/rootcling
+MyFunction_C__ROOTBUILDVERSION= 6.14/04
